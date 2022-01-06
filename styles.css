@@ -1,0 +1,35 @@
+/******************************** TAG SELECTORS **********************************/
+
+body {
+  background-color: #F2FFE9;
+}
+
+hr {
+  border-style: dotted none none ;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #316B83;
+}
+
+h3 {
+  color: #6D8299;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/******************************** CLASS SELECTORS **********************************/
+
+/* Just add a class attribute to any tag and call it within here like this:
+
+For bacon img:
+.bacon {
+  --------
+}
+*/
