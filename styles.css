@@ -19,17 +19,22 @@ h3 {
   color: #6D8299;
 }
 
-a {
+a:hover {
   text-decoration: none;
+}
+
+p:hover {
+  color: #676FA3;
 }
 
 
 /******************************** CLASS SELECTORS **********************************/
-
 /* Just add a class attribute to any tag and call it within here like this:
-
 For bacon img:
 .bacon {
   --------
-}
-*/
+}*/
+
+
+
+/******************************** CLASS SELECTORS **********************************/
